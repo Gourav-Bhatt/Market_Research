@@ -1,5 +1,5 @@
 <h1>
-  💹 Market Research Analysis
+  💹 Market Research and Competitive Analysis
 </h1><br>
 <h3>
   📌 Objective:
