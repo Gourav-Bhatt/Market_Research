@@ -14,4 +14,4 @@ The objective of this market research and competitive analysis is to gain a thor
   🧭 Tools Used:
 </h3>
 👉🏻 Microsoft PowerPoint
-👉🏻 Artificial intelligence
+👉🏻 Artificial Intelligence
